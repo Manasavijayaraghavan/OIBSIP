@@ -4,11 +4,11 @@
 
 ##  Table of Contents
 
-- [Task 1: Iris Classification](#task-1-iris-classification)
-- [Task 2: Unemployment Analysis](#task-2-unemployment-analysis)
-- [Task 3: Car Sales Prediction](#task-3-car-sales-prediction)
-- [Task 4: Email Spam Detection](#task-4-email-spam-detection)
-- [Task 5: Sales Prediction](#task-5-sales-prediction)
+- [Task 1: Iris Classification](https://github.com/Manasavijayaraghavan/OIBSIP/tree/main/Task-1)
+- [Task 2: Unemployment Analysis](https://github.com/Manasavijayaraghavan/OIBSIP/tree/main/Task-2)
+- [Task 3: Car Sales Prediction](https://github.com/Manasavijayaraghavan/OIBSIP/tree/main/Task-3)
+- [Task 4: Email Spam Detection](https://github.com/Manasavijayaraghavan/OIBSIP/tree/main/Task-4)
+- [Task 5: Sales Prediction](https://github.com/Manasavijayaraghavan/OIBSIP/tree/main/Task-5)
 
 ---
 
